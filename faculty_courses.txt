@@ -1,0 +1,2223 @@
+CSD Courses Taught
+15898 - Fall, 2023
+CSD Courses Taught
+15251 - Fall, 2023
+Courses not found
+CSD Courses Taught
+15746 - Fall, 2023
+CSD Courses Taught
+15712 - Fall, 2023
+CSD Courses Taught
+15451 - Fall, 2023
+15651 - Fall, 2023
+Courses not found
+Courses not found
+CSD Courses Taught
+15740 - Fall, 2023
+Courses not found
+CSD Courses Taught
+15210 - Fall, 2023
+Courses not found
+CSD Courses Taught
+15150 - Fall, 2023
+Courses not found
+Courses not found
+CSD Courses Taught
+15122 - Fall, 2023
+Courses not found
+Courses not found
+CSD Courses Taught
+15326 - Fall, 2023
+CSD Courses Taught
+15104 - Fall, 2023
+15050 - Fall, 2023
+CSD Courses Taught
+15860 - Fall, 2023
+15627 - Fall, 2023
+15327 - Fall, 2023
+CSD Courses Taught
+15997 - Fall, 2023
+15998 - Fall, 2023
+15317 - Fall, 2023
+15996 - Fall, 2023
+15657 - Fall, 2023
+Courses not found
+Courses not found
+Courses not found
+CSD Courses Taught
+15605 - Fall, 2023
+15410 - Fall, 2023
+15639 - Fall, 2023
+15689 - Fall, 2023
+15412 - Fall, 2023
+15698 - Fall, 2023
+15697 - Fall, 2023
+15612 - Fall, 2023
+15604 - Fall, 2023
+CSD Courses Taught
+15989 - Fall, 2023
+CSD Courses Taught
+15316 - Fall, 2023
+CSD Courses Taught
+15746 - Fall, 2023
+CSD Courses Taught
+15213 - Fall, 2023
+15513 - Fall, 2023
+CSD Courses Taught
+15463 - Fall, 2023
+15663 - Fall, 2023
+15862 - Fall, 2023
+CSD Courses Taught
+15857 - Fall, 2023
+CSD Courses Taught
+15652 - Fall, 2023
+15312 - Fall, 2023
+CSD Courses Taught
+15816 - Fall, 2023
+CSD Courses Taught
+15356 - Fall, 2023
+15856 - Fall, 2023
+Brandon Lucia
+          Limin Jia
+            
+            (
+              2023
+        )
+
+                            PROCEEDINGS OF THE ACM ON PROGRAMMING LANGUAGES-PACMPL,
+                                        A Type System for Safe Intermittent Computing
+
+
+              Proceedings of the ACM on Programming Languages
+        ,
+                                Vol: 
+              7
+        
+                                                    Issue: (
+              PLDI
+        )
+Limin Jia
+            
+            (
+              2023
+        )
+
+                            Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),
+                                        Modal Crash Types for Intermittent Computing
+
+
+              Lecture Notes in Artificial Intelligence
+        ,
+                                Vol: 
+              13990 LNCS
+        
+                                            
+                            ,
+
+                Page(s): 168-
+              196
+        .
+Cassel D, Wong WT, Jia L
+            (
+              2023
+        )
+
+                            
+NodeMedic: End-to-End Analysis of Node.js Vulnerabilities with Provenance Graphs
+ 
+
+                                    Vol: 00
+                                            
+                            ,
+                Page(s):  1101
+                                    -
+              1127
+McCall M, Bichhawat A, Jia L
+            (
+              2022
+        )
+
+                            
+Compositional Information Flow Monitoring for Reactive Programs
+ 
+
+
+                            ,
+                Page(s):  467
+                                    -
+              486
+Lin S-C, Chou K-H, Chen Y, Hsiao H-C, Cassel D, Bauer L, Jia L
+            (
+              2022
+        )
+
+                            
+Investigating Advertisers' Domain-changing Behaviors and Their Impacts on Ad-blocker Filter Lists
+ 
+
+
+                            ,
+                Page(s):  576
+                                    -
+              587
+CSD Courses Taught
+15618 - Fall, 2023
+15418 - Fall, 2023
+Courses not found
+Takeo Kanade
+            
+            (
+              2023
+        )
+
+                            EXPERIMENTAL MECHANICS,
+                                        Thermoelastic Stress Measurement Using SVD Thermo-Component Analysis
+
+
+              Experimental Mechanics
+        ,
+                                Vol: 
+              63
+        
+                                                    Issue: (
+              2
+        )
+                            
+                            ,
+
+                Page(s): 337-
+              347
+        .
+Takeo Kanade
+            
+            (
+              2019
+        )
+
+                            IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE,
+                                        Panoptic Studio: A Massively Multiview System for Social Interaction Capture
+
+
+              IEEE Transactions on Pattern Analysis and Machine Intelligence
+        ,
+                                Vol: 
+              41
+        
+                                                    Issue: (
+              1
+        )
+                            
+                            ,
+
+                Page(s): 190-
+              204
+        .
+Takeo Kanade
+            
+            (
+              2018
+        )
+
+                            Machine Vision and Applications,
+                                        3D level set method for blastomere segmentation of preimplantation embryos in fluorescence microscopy images
+
+
+              Machine Vision and Applications: an international journal
+        ,
+                                Vol: 
+              29
+        
+                                                    Issue: (
+              1
+        )
+                            
+                            ,
+
+                Page(s): 125-
+              134
+        .
+Takeo Kanade
+            
+            (
+              2018
+        )
+
+                            SCIENTIFIC DATA,
+                                        Data Descriptor: Phase contrast time-lapse microscopy datasets with automated and manual cell tracking annotations
+
+
+              Scientific Data
+        ,
+                                Vol: 
+              5
+Takeo Kanade
+            
+            (
+              2018
+        )
+
+                            IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE,
+                                        Guest Editorial: The Computational Face
+
+
+              IEEE Transactions on Pattern Analysis and Machine Intelligence
+        ,
+                                Vol: 
+              40
+        
+                                                    Issue: (
+              11
+        )
+                            
+                            ,
+
+                Page(s): 2541-
+              2545
+        .
+CSD Courses Taught
+15122 - Fall, 2023
+Courses not found
+Leqi L, Zhou G, Kilinc-Karzan F, Lipton Z, Montgomery A
+            (
+              2023
+        )
+
+                            
+A Field Test of Bandit Algorithms for Recommendations: Understanding the Validity of Assumptions on Human Preferences in Multi-armed Bandits
+ 
+
+              Cost Engineering (Morgantown)
+Fatma Kilinc-Karzan
+            
+            (
+              2022
+        )
+
+                                        Accelerated first-order methods for a class of semidefinite programs
+
+,
+Fatma Kilinc-Karzan
+            
+            (
+              2022
+        )
+
+                            MATHEMATICAL PROGRAMMING,
+                                        Distributionally robust chance-constrained programs with right-hand side uncertainty under Wasserstein ambiguity
+
+
+              Mathematical Programming
+        ,
+                                Vol: 
+              196
+        
+                                                    Issue: (
+              1-2
+        )
+                            
+                            ,
+
+                Page(s): 641-
+              672
+        .
+Fatma Kilinc-Karzan
+            
+            (
+              2022
+        )
+
+                            MATHEMATICAL PROGRAMMING,
+                                        Joint chance-constrained programs and the intersection of mixing sets through a submodularity lens
+
+
+              Mathematical Programming
+        ,
+                                Vol: 
+              195
+        
+                                                    Issue: (
+              1-2
+        )
+                            
+                            ,
+
+                Page(s): 283-
+              326
+        .
+Fatma Kilinc-Karzan
+            
+            (
+              2022
+        )
+
+                            MATHEMATICS OF OPERATIONS RESEARCH,
+                                        Necessary and Sufficient Conditions for Rank-One-Generated Cones
+
+
+              Mathematics of Operations Research
+        ,
+CSD Courses Taught
+15110 - Fall, 2023
+Zico Kolter
+            
+            (
+              2023
+        )
+
+                                        A Simple and Effective Pruning Approach for Large Language Models
+
+,
+Zico Kolter
+            
+            (
+              2023
+        )
+
+                                        Abstracting Imperfect Information Away from Two-Player Zero-Sum Games
+
+,
+Zico Kolter
+            
+            (
+              2023
+        )
+
+                                        Can Neural Network Memorization Be Localized?
+
+,
+Zico Kolter
+            
+            (
+              2023
+        )
+
+                                        Language models are weak learners
+
+,
+Nina Balcan
+          Zico Kolter
+            
+            (
+              2023
+        )
+
+                                        Learning with Explanation Constraints
+
+,
+David Kosbie
+            
+            (
+              2005
+        )
+
+                            SOFTWARE-PRACTICE & EXPERIENCE,
+                                        Lessons learned from programmers' experiences with one-way constraints
+
+
+              Software: Practice and Experience
+        ,
+                                Vol: 
+              35
+        
+                                                    Issue: (
+              13
+        )
+                            
+                            ,
+
+                Page(s): 1275-
+              1298
+        .
+David Kosbie
+            
+            (
+              2001
+        )
+
+                            ACM TRANSACTIONS ON PROGRAMMING LANGUAGES AND SYSTEMS,
+                                        Lessons learned about one-way, dataflow constraints in the garnet and amulet graphical toolkits
+
+
+              ACM Transactions on Programming Languages and Systems
+        ,
+                                Vol: 
+              23
+        
+                                                    Issue: (
+              6
+        )
+                            
+                            ,
+
+                Page(s): 776-
+              796
+        .
+David Kosbie
+            
+            (
+              1997
+        )
+
+                                        Automating Tasks for Groups of Users : A System-Wide “Epiphyte” Approach
+
+
+              IFIP Advances in Information and Communication Technology
+        ,
+                                            
+                            ,
+
+                Page(s): 244-
+              251
+        .
+Myers BA, Kosbie DS
+            (
+              1996
+        )
+
+                            
+Reusable hierarchical command objects
+ 
+
+              Cost Engineering (Morgantown)
+        
+                                            
+                            ,
+                Page(s):  260
+                                    -
+              267
+David Kosbie
+            
+            (
+              1995
+        )
+
+                                        Garnet Comprehensive Support for Graphical, Highly Interactive User Interfaces
+
+,
+                                            
+                            ,
+
+                Page(s): 357-
+              371
+        .
+CSD Courses Taught
+15251 - Fall, 2023
+Courses not found
+Ahmed MI, Bansal A, Yuan K, Kumar S, Steenkiste P
+            (
+              2023
+        )
+
+                            
+Battery-free Wideband Spectrum Mapping using Commodity RFID Tags
+ 
+
+
+                            ,
+                Page(s):  1
+                                    -
+              16
+He J, Horton King T, Yao CK, Prabhakara A, Alipour M, Kumar S, Rowe A, Soltanaghai E
+            (
+              2023
+        )
+
+                            
+Demo Abstract: Platypus: Sub-mm Micro-Displacement Sensing with Passive Millimeter-wave Tags As "phase Carriers"
+ 
+
+
+                            ,
+                Page(s):  358
+                                    -
+              359
+Prabhakara A, Jin T, Das A, Bhatt G, Kumari L, Soltanaghai E, Bilmes J, Kumar S, Rowe A
+            (
+              2023
+        )
+
+                            
+High Resolution Point Clouds from mmWave Radar
+ 
+
+                                    Vol: 00
+                                            
+                            ,
+                Page(s):  4135
+                                    -
+              4142
+Song Y, Zadan M, Misra K, Li Z, Wang J, Majidi C, Kumar S
+            (
+              2023
+        )
+
+                            
+Navigating Soft Robots through Wireless Heating
+ 
+
+                                    Vol: 00
+                                            
+                            ,
+                Page(s):  2598
+                                    -
+              2605
+Swarun Kumar
+            
+            (
+              2023
+        )
+
+                            GetMobile Mobile Computing and Communications,
+                                        PLatter
+
+
+              GetMobile
+        ,
+                                Vol: 
+              26
+        
+                                                    Issue: (
+              4
+        )
+                            
+                            ,
+
+                Page(s): 19-
+              22
+        .
+Courses not found
+CSD Courses Taught
+15387 - Fall, 2023
+Willis KDD, Xu C, Wu K-J, Levin G, Gross MD
+            (
+              2011
+        )
+
+                            
+Interactive Fabrication: New Interfaces for Digital Fabrication
+ 
+
+
+                            ,
+                Page(s):  69
+                                    -
+              72
+Golan Levin
+            
+            (
+              2006
+        )
+
+                            AI & SOCIETY,
+                                        Computer vision for artists and designers: pedagogic tools and techniques for novice programmers
+
+
+              AI and Society: the journal of human-centered systems and machine intelligence
+        ,
+                                Vol: 
+              20
+        
+                                                    Issue: (
+              4
+        )
+                            
+                            ,
+
+                Page(s): 462-
+              482
+        .
+Levin G
+            (
+              2006
+        )
+
+            
+
+                                    
+                        International Computer Music Conference, ICMC 2006, 
+The table is the score: An augmented-reality interface for real-time, tangible, spectrographic performance
+
+
+
+                            ,
+                Page(s):  151
+                                    -
+              154
+Feiner S, Ganapathy SK, Lanier J, Levin G, White D, Pingali G
+            (
+              2004
+        )
+
+                            
+Directions and frameworks for effective telepresence
+ 
+
+
+                            ,
+                Page(s):  69
+                                    -
+              72
+Levin G, Lieberman Z
+            (
+              2004
+        )
+
+                            
+In-situ speech visualization in real-time interactive installation and performance
+ 
+
+
+                            ,
+                Page(s):  7
+                                    -
+              13
+Courses not found
+CSD Courses Taught
+15769 - Fall, 2023
+Brandon Lucia
+          Limin Jia
+            
+            (
+              2023
+        )
+
+                            PROCEEDINGS OF THE ACM ON PROGRAMMING LANGUAGES-PACMPL,
+                                        A Type System for Safe Intermittent Computing
+
+
+              Proceedings of the ACM on Programming Languages
+        ,
+                                Vol: 
+              7
+        
+                                                    Issue: (
+              PLDI
+        )
+Denby B, Chintalapudi K, Chandra R, Lucia B, Noghabi S
+            (
+              2023
+        )
+
+                            
+Kodan: Addressing the Computational Bottleneck in Space
+ 
+
+              International Conference on Architectural Support for Programming Languages and Operating Systems - ASPLOS
+        
+                                    Vol: 3
+                                            
+                            ,
+                Page(s):  392
+                                    -
+              403
+Gobieski G, Atli O, Erbagci C, Mai K, Beckmann N, Lucia B
+            (
+              2023
+        )
+
+                            
+MANIC: A $19\mu\mathrm{W}$ @ 4MHz, 256 MOPS/mW, RISC-V microcontroller with embedded MRAM main memory and vector-dataflow co-processor in 22nm bulk finFET CMOS
+ 
+
+                                    Vol: 00
+                                            
+                            ,
+                Page(s):  1
+                                    -
+              4
+Ruppel E, Surbatovich M, Desai H, Maeng K, Lucia B
+            (
+              2022
+        )
+
+                            
+An Architectural Charge Management Interface for Energy-Harvesting Systems
+ 
+
+              Micro -Annual Workshop then Annual International Symposium-
+        
+                                            
+                            ,
+                Page(s):  318
+                                    -
+              335
+Brandon Lucia
+            
+            (
+              2022
+        )
+
+                            ACM TRANSACTIONS ON EMBEDDED COMPUTING SYSTEMS,
+                                        Camaroptera: A Long-range Image Sensor with Local Inference for Remote Sensing Applications
+
+
+              ACM Transactions on Embedded Computing Systems
+        ,
+                                Vol: 
+              21
+        
+                                                    Issue: (
+              3
+        )
+CSD Courses Taught
+15151 - Fall, 2023
+Amazon Research Award
+       |
+                
+            Faculty Research Award
+      
+
+"Improving performance and trust of MaxSAT solvers" Automated Reasoning
+"Improving performance and trust of MaxSAT solvers" Automated Reasoning
+CSD Courses Taught
+15666 - Fall, 2023
+15466 - Fall, 2023
+Chu T, Miller GL, Sheehy DR
+            (
+              2020
+        )
+
+            
+
+                                    
+                        Proceedings of the Annual ACM-SIAM Symposium on Discrete Algorithms, 
+Exact computation of a manifold metric, via Lipschitz Embeddings and Shortest Paths on a Graph
+
+
+              Proceedings of the Annual ACM-SIAM Symposium on Discrete Algorithms
+        
+                                    Vol: 2020-January
+                                            
+                            ,
+                Page(s):  411
+                                    -
+              425
+Miller GL, Walkington NJ, Wang AL
+            (
+              2019
+        )
+
+                            
+Hardy-muckenhoupt bounds for Laplacian eigenvalues
+ 
+
+              Leibniz International Proceedings in Informatics
+        
+                                    Vol: 145
+Cucuringu M, Koutis I, Chawla S, Miller G, Peng R
+            (
+              2016
+        )
+
+                            
+Simple and Scalable Constrained Clustering: A Generalized Spectral Method
+ 
+
+              JMLR workshop and conference proceedings
+        
+                                    Vol: 51
+                                            
+                            ,
+                Page(s):  445
+                                    -
+              454
+Miller GL, Sheehy DR
+            (
+              2009
+        )
+
+                            
+Approximate Center Points with Proofs
+ 
+
+              Proceedings of the Annual Symposium on Computational Geometry
+        
+                                            
+                            ,
+                Page(s):  153
+                                    -
+              158
+Koutis I, Miller GL, Tolliver D
+            (
+              2009
+        )
+
+                            
+Combinatorial Preconditioners and Multilevel Solvers for Problems in Computer Vision and Image Processing
+ 
+
+              Lecture Notes in Artificial Intelligence
+        
+                                    Vol: 5875
+                                            
+                            ,
+                Page(s):  1067
+                                    -
+              1078
+CSD Courses Taught
+15640 - Fall, 2023
+15440 - Fall, 2023
+Tom Mitchell
+            
+            (
+              2022
+        )
+
+                            Journal of Educational Data Mining,
+                                        Assessing the Performance of Online Students - New Data, New Approaches, Improved Accuracy
+
+
+              Journal of Educational Data Mining
+        ,
+                                Vol: 
+              14
+        
+                                                    Issue: (
+              1
+        )
+                            
+                            ,
+
+                Page(s): 1-
+              45
+        .
+Tom Mitchell
+            
+            (
+              2022
+        )
+
+                            Patterns,
+                                        Erratum: Gender bias, social bias, and representation in Bollywood and Hollywood (Patterns (2022) 3(2), (S2666389922000150), (10.1016/j.patter.2022.100442))
+
+
+              Patterns
+        ,
+                                Vol: 
+              3
+        
+                                                    Issue: (
+              4
+        )
+Tom Mitchell
+            
+            (
+              2022
+        )
+
+                            Patterns,
+                                        Erratum: “Gender bias, social bias, and representation: 70 years of B<sup>H</sup>ollywood” (Patterns (2022) 3(2), (S266638992100283X), (10.1016/j.patter.2021.100409))
+
+
+              Patterns
+        ,
+                                Vol: 
+              3
+        
+                                                    Issue: (
+              2
+        )
+Khudabukhsh AR, Sarkar R, Kamlet MS, Mitchell TM
+            (
+              2022
+        )
+
+                            
+Fringe News Networks: Dynamics of US News Viewership following the 2020 Presidential Election
+ 
+
+
+                            ,
+                Page(s):  269
+                                    -
+              278
+Tom Mitchell
+            
+            (
+              2022
+        )
+
+                            PATTERNS,
+                                        Gender bias, social bias, and representation: 70 years of B(H)ollywood
+
+
+              Patterns
+        ,
+                                Vol: 
+              3
+        
+                                                    Issue: (
+              2
+        )
+Stefan Mitsch
+            
+            (
+              2023
+        )
+
+                                        Dynamic Logic of Communicating Hybrid Programs
+
+,
+Stefan Mitsch
+            
+            (
+              2023
+        )
+
+                            ACM TRANSACTIONS ON EMBEDDED COMPUTING SYSTEMS,
+                                        Formally Verified Next-generation Airborne Collision Avoidance Games in ACAS X
+
+
+              ACM Transactions on Embedded Computing Systems
+        ,
+                                Vol: 
+              22
+        
+                                                    Issue: (
+              1
+        )
+Stefan Mitsch
+            
+            (
+              2023
+        )
+
+                            Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),
+                                        Reward Shaping from Hybrid Systems Models in Reinforcement Learning
+
+
+              Lecture Notes in Artificial Intelligence
+        ,
+                                Vol: 
+              13903 LNCS
+        
+                                            
+                            ,
+
+                Page(s): 122-
+              139
+        .
+Stefan Mitsch
+            
+            (
+              2023
+        )
+
+                                        Slow Down, Move Over: A Case Study in Formal Verification, Refinement, and Testing of the Responsibility-Sensitive Safety Model for Self-Driving Cars
+
+
+              Lecture Notes in Artificial Intelligence
+        ,
+                                Vol: 
+              14066
+        
+                                            
+                            ,
+
+                Page(s): 149-
+              167
+        .
+Stefan Mitsch
+            
+            (
+              2023
+        )
+
+                                        Uniform Substitution for Dynamic Logic with Communicating Hybrid  Programs
+
+,
+CSD Courses Taught
+15745 - Fall, 2023
+Courses not found
+CSD Courses Taught
+15459 - Fall, 2023
+CSD Courses Taught
+15698 - Fall, 2023
+15697 - Fall, 2023
+15605 - Fall, 2023
+15639 - Fall, 2023
+15604 - Fall, 2023
+15689 - Fall, 2023
+15410 - Fall, 2023
+Courses not found
+Courses not found
+CSD Courses Taught
+15330 - Fall, 2023
+CSD Courses Taught
+15445 - Fall, 2023
+15645 - Fall, 2023
+CSD Courses Taught
+15645 - Fall, 2023
+15445 - Fall, 2023
+CSD Courses Taught
+15795 - Fall, 2023
+15495 - Fall, 2023
+CSD Courses Taught
+15836 - Fall, 2023
+Courses not found
+CSD Courses Taught
+15462 - Fall, 2023
+15662 - Fall, 2023
+Ariel Procaccia
+            
+            (
+              2021
+        )
+
+                            Journal of Artificial Intelligence Research,
+                                        Liquid democracy: An algorithmic perspective
+
+
+              Journal of Artificial Intelligence Research
+        ,
+                                Vol: 
+              70
+        
+                                            
+                            ,
+
+                Page(s): 1223-
+              1252
+        .
+Ariel Procaccia
+          Bernhard Haeupler
+            
+            (
+              2020
+        )
+
+                            Leibniz International Proceedings in Informatics, LIPIcs,
+                                        Computation-aware data aggregation
+
+
+              Leibniz International Proceedings in Informatics
+        ,
+                                Vol: 
+              151
+Ostrovsky M, Procaccia A, Biro P, Jason H
+            (
+              2020
+        )
+
+                            
+EC 2020 Foreword
+ 
+
+
+                            ,
+                Page(s):  iii
+                                    -
+              v
+Ariel Procaccia
+            
+            (
+              2020
+        )
+
+                            Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),
+                                        Fair Division with Binary Valuations: One Rule to Rule Them All
+
+
+              Lecture Notes in Artificial Intelligence
+        ,
+                                Vol: 
+              12495 LNCS
+        
+                                            
+                            ,
+
+                Page(s): 370-
+              383
+        .
+Ariel Procaccia
+          Tuomas Sandholm
+            
+            (
+              2020
+        )
+
+                            OPERATIONS RESEARCH,
+                                        Ignorance Is Almost Bliss: Near-Optimal Stochastic Matching with Few Queries
+
+
+              Operations Research
+        ,
+                                Vol: 
+              68
+        
+                                                    Issue: (
+              1
+        )
+                            
+                            ,
+
+                Page(s): 16-
+              34
+        .
+CSD Courses Taught
+15281 - Fall, 2023
+CSD Courses Taught
+15513 - Fall, 2023
+15213 - Fall, 2023
+15346 - Fall, 2023
+R. Ravi
+            
+            (
+              2023
+        )
+
+                            MATHEMATICAL PROGRAMMING,
+                                        A new integer programming formulation of the graphical traveling salesman problem
+
+
+              Mathematical Programming
+        ,
+                                Vol: 
+              197
+        
+                                                    Issue: (
+              2
+        )
+                            
+                            ,
+
+                Page(s): 877-
+              902
+        .
+R. Ravi
+            
+            (
+              2023
+        )
+
+                                        Instance-specific linear relaxations of semidefinite optimization
+  problems
+
+,
+R. Ravi
+            
+            (
+              2023
+        )
+
+                            M&SOM-MANUFACTURING & SERVICE OPERATIONS MANAGEMENT,
+                                        Order Fulfillment Under Pick Failure in Omnichannel Ship-From-Store Programs
+
+
+              Manufacturing & Service Operations Management
+        ,
+                                Vol: 
+              25
+        
+                                                    Issue: (
+              2
+        )
+                            
+                            ,
+
+                Page(s): 508-
+              523
+        .
+R. Ravi
+            
+            (
+              2023
+        )
+
+                            MATHEMATICAL PROGRAMMING,
+                                        Vertex downgrading to minimize connectivity
+
+
+              Mathematical Programming
+        ,
+                                Vol: 
+              199
+        
+                                                    Issue: (
+              1-2
+        )
+                            
+                            ,
+
+                Page(s): 215-
+              249
+        .
+R. Ravi
+            
+            (
+              2022
+        )
+
+                            OPERATIONS RESEARCH LETTERS,
+                                        Approximation algorithm for the 2-stage stochastic matroid base problem
+
+
+              Operations Research Letters
+        ,
+                                Vol: 
+              50
+        
+                                                    Issue: (
+              2
+        )
+                            
+                            ,
+
+                Page(s): 129-
+              132
+        .
+Reddy R
+            (
+              2018
+        )
+
+                            
+AI can help to create a humane society
+ 
+
+
+                            ,
+                Page(s):  7
+                                    -
+              7
+Raj Reddy
+            
+            (
+              2017
+        )
+
+                                        CONFERENCE ON SPEECH COMMUNICATION AND PROCESSING, 1972.
+
+,
+Raj Reddy
+            
+            (
+              2016
+        )
+
+                            ENGINEERING,
+                                        Facing Challenges Together
+
+
+              Engineering
+        ,
+                                Vol: 
+              2
+        
+                                                    Issue: (
+              1
+        )
+                            
+                            ,
+
+                Page(s): 1-
+              1
+        .
+Raj Reddy
+            
+            (
+              2016
+        )
+
+                                        Machine models of speech perception
+
+,
+                                            
+                            ,
+
+                Page(s): 215-
+              242
+        .
+Raj Reddy
+            
+            (
+              2015
+        )
+
+                            Engineering,
+                                        Letter from Editors-in-Chief
+
+
+              Engineering
+        ,
+                                Vol: 
+              1
+        
+                                                    Issue: (
+              1
+        )
+                            
+                            ,
+
+                Page(s): 158
+CSD Courses Taught
+15110 - Fall, 2023
+CSD Courses Taught
+15281 - Fall, 2023
+Steven Rudich
+            
+            (
+              2012
+        )
+
+                            JOURNAL OF THE ACM,
+                                        On the (Im)possibility of Obfuscating Programs
+
+
+              Journal of the ACM
+        ,
+                                Vol: 
+              59
+        
+                                                    Issue: (
+              2
+        )
+Steven Rudich
+            
+            (
+              2004
+        )
+
+                            SIAM JOURNAL ON COMPUTING,
+                                        Learning a hidden matching
+
+
+              SIAM Journal on Computing
+        ,
+                                Vol: 
+              33
+        
+                                                    Issue: (
+              2
+        )
+                            
+                            ,
+
+                Page(s): 487-
+              501
+        .
+Alon N, Beigel R, Kasif S, Rudich S, Sudakov B
+            (
+              2002
+        )
+
+                            
+Learning a Hidden Matching
+ 
+
+
+                            ,
+                Page(s):  1
+                                    -
+              10
+Alon N, Beigel R, Kasif S, Rudich S, Sudakov B
+            (
+              2002
+        )
+
+            
+
+                                    
+                        Annual Symposium on Foundations of Computer Science - Proceedings, 
+Learning a hidden matching
+
+
+              Annual Symposium on Foundations of Computer Science
+        
+                                            
+                            ,
+                Page(s):  197
+                                    -
+              206
+Steven Rudich
+            
+            (
+              2001
+        )
+
+                            COMPUTATIONAL COMPLEXITY,
+                                        Communication complexity towards lower bounds on circuit depth
+
+
+              Computational Complexity
+        ,
+                                Vol: 
+              10
+        
+                                                    Issue: (
+              3
+        )
+                            
+                            ,
+
+                Page(s): 210-
+              246
+        .
+Courses not found
+CSD Courses Taught
+15319 - Fall, 2023
+15619 - Fall, 2023
+Courses not found
+CSD Courses Taught
+15888 - Fall, 2023
+CSD Courses Taught
+15821 - Fall, 2023
+Courses not found
+Russell Schwartz
+            
+            (
+              2023
+        )
+
+                            JOURNAL OF COMPUTATIONAL BIOLOGY,
+                                        A Clonal Evolution Simulator for Planning Somatic Evolution Studies
+
+
+              Journal of Computational Biology
+        ,
+Russell Schwartz
+            
+            (
+              2022
+        )
+
+                            BIOINFORMATICS RESEARCH AND APPLICATIONS, ISBRA 2022,
+                                        A Clonal Evolution Simulator for Planning Somatic Evolution Studies
+
+
+              Lecture Notes in Artificial Intelligence
+        ,
+                                Vol: 
+              13760
+        
+                                            
+                            ,
+
+                Page(s): 229-
+              242
+        .
+Ren S, Tao Y, Yu K, Xue Y, Schwartz R, Lu X
+            (
+              2022
+        )
+
+                            
+De novo Prediction of Cell-Drug Sensitivities Using Deep Learning-based Graph Regularized Matrix Factorization
+ 
+
+              Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
+        
+                                    Vol: 27
+                                            
+                            ,
+                Page(s):  278
+                                    -
+              289
+Russell Schwartz
+            
+            (
+              2022
+        )
+
+                            NUCLEIC ACIDS RESEARCH,
+                                        Interpretable deep learning for chromatin-informed inference of transcriptional programs driven by somatic alterations across cancers
+
+
+              Nucleic Acids Research
+        ,
+                                Vol: 
+              50
+        
+                                                    Issue: (
+              19
+        )
+                            
+                            ,
+
+                Page(s): 10869-
+              10881
+        .
+Russell Schwartz
+            
+            (
+              2022
+        )
+
+                            BIOINFORMATICS,
+                                        Reconstructing tumor clonal lineage trees incorporating single-nucleotide variants, copy number alterations and structural variations
+
+
+              Bioinformatics
+        ,
+                                Vol: 
+              38
+        
+                                                    Issue: (
+              SUPPL 1
+        )
+                            
+                            ,
+
+                Page(s): 125-
+              133
+        .
+A.M. Turing Award
+       |
+            
+            1976
+       |
+            
+            Faculty Research Award
+      
+
+  
+            (jointly with Michael Rabin) (Emeritus)
+For their joint paper "Finite Automata and Their Decision Problem", which introduced the idea of nondeterministic machines, which has proved to be an enormously valuable concept. Their classic paper has been a continuous source of inspiration for subsequent work in this field.
+Vyas Sekar
+            
+            (
+              2023
+        )
+
+                            PASSIVE AND ACTIVE MEASUREMENT, PAM 2023,
+                                        A First Look at Third-Party Service Dependencies of Web Services in Africa
+
+
+              Lecture Notes in Artificial Intelligence
+        ,
+                                Vol: 
+              13882
+        
+                                            
+                            ,
+
+                Page(s): 595-
+              622
+        .
+Vyas Sekar
+            
+            (
+              2023
+        )
+
+                            IEEE TRANSACTIONS ON CONTROL SYSTEMS TECHNOLOGY,
+                                        CANE: A Cascade Control Approach for Network-Assisted Video QoE Management
+
+
+              IEEE Transactions on Control Systems Technology
+        ,
+Vyas Sekar
+            
+            (
+              2023
+        )
+
+                                        CANE: A Cascade-Control Approach for Network-Assisted Video QoE  Management
+
+,
+Kim D, Sekar V, Seshan S
+            (
+              2023
+        )
+
+            
+
+                                    
+                        Proceedings of the 20th USENIX Symposium on Networked Systems Design and Implementation, NSDI 2023, 
+ExoPlane: An Operating System for On-Rack Switch Resource Augmentation
+
+
+
+                            ,
+                Page(s):  1257
+                                    -
+              1272
+Singer B, Pandey A, Li S, Bauer L, Miller C, Pileggi L, Sekar V
+            (
+              2023
+        )
+
+                            
+Shedding Light on Inconsistencies in Grid Cybersecurity: Disconnects and Recommendations
+ 
+
+              Proceedings / IEEE Symposium on Security and Privacy; sponsored by IEEE Computer Society, IEEE Computer Society Technical Committee on Security and Privacy in cooperation with the International Association for Cryptologic Research (IARC...
+        
+                                    Vol: 2023-May
+                                            
+                            ,
+                Page(s):  38
+                                    -
+              55
+Kim D, Sekar V, Seshan S
+            (
+              2023
+        )
+
+            
+
+                                    
+                        Proceedings of the 20th USENIX Symposium on Networked Systems Design and Implementation, NSDI 2023, 
+ExoPlane: An Operating System for On-Rack Switch Resource Augmentation
+
+
+
+                            ,
+                Page(s):  1257
+                                    -
+              1272
+Agarwal A, Noghabi S, Goiri Í, Seshan S, Badam A
+            (
+              2023
+        )
+
+            
+
+                                    
+                        Proceedings of the 20th USENIX Symposium on Networked Systems Design and Implementation, NSDI 2023, 
+Unlocking unallocated cloud capacity for long, uninterruptible workloads
+
+
+
+                            ,
+                Page(s):  457
+                                    -
+              478
+Agarwal A, Arun V, Ray D, Martins R, Seshan S
+            (
+              2022
+        )
+
+                            
+Automating network heuristic design and analysis
+ 
+
+
+                            ,
+                Page(s):  8
+                                    -
+              16
+Ray D, Seshan S
+            (
+              2022
+        )
+
+                            
+CC-Fuzz: Genetic Algorithm-based Fuzzing for Stress Testing Congestion Control Algorithms
+ 
+
+
+                            ,
+                Page(s):  31
+                                    -
+              37
+Agarwal A, Liu Z, Seshan S
+            (
+              2022
+        )
+
+                            
+HeteroSketch: Coordinating Network-wide Monitoring in Heterogeneous and Dynamic Networks
+ 
+
+
+                            ,
+                Page(s):  719
+                                    -
+              741
+Nihar Shah
+            
+            (
+              2023
+        )
+
+                            Management Science,
+                                        The Square Root Agreement Rule for Incentivizing Truthful Feedback on Online Platforms
+
+
+              Management Science
+        ,
+                                Vol: 
+              69
+        
+                                                    Issue: (
+              1
+        )
+                            
+                            ,
+
+                Page(s): 377-
+              403
+        .
+Ding W, Kamath G, Wang W, Shah NB
+            (
+              2022
+        )
+
+                            
+Calibration with Privacy in Peer Review
+ 
+
+                                    Vol: 00
+                                            
+                            ,
+                Page(s):  1635
+                                    -
+              1640
+Nihar Shah
+            
+            (
+              2022
+        )
+
+                            Communications of the ACM,
+                                        Challenges, experiments, and computational solutions in peer review
+
+
+              Communications of the ACM
+        ,
+                                Vol: 
+              65
+        
+                                                    Issue: (
+              6
+        )
+                            
+                            ,
+
+                Page(s): 76-
+              87
+        .
+Rastogi C, Stelmakh I, Shah N, Balakrishnan S
+            (
+              2022
+        )
+
+                            
+No Rose for MLE: Inadmissibility of MLE for Evaluation Aggregation Under Levels of Expertise
+ 
+
+              IEEE International Symposium on Information Theory - Proceedings
+        
+                                    Vol: 2022-June
+                                            
+                            ,
+                Page(s):  3168
+                                    -
+              3173
+Nihar Shah
+            
+            (
+              2022
+        )
+
+                            IEEE TRANSACTIONS ON INFORMATION THEORY,
+                                        The MDS Queue: Analysing the Latency Performance of Erasure Codes (vol 63, pg 2822, 2017)
+
+
+              IEEE Transactions on Information Theory
+        ,
+                                Vol: 
+              68
+        
+                                                    Issue: (
+              9
+        )
+                            
+                            ,
+
+                Page(s): 5850-
+              5851
+        .
+Mary Shaw
+            
+            (
+              2022
+        )
+
+                            IEEE SOFTWARE,
+                                        Can Software Engineering Harness the Benefits of Advanced AI?
+
+
+              IEEE Software
+        ,
+                                Vol: 
+              39
+        
+                                                    Issue: (
+              6
+        )
+                            
+                            ,
+
+                Page(s): 99-
+              104
+        .
+Mary Shaw
+            
+            (
+              2022
+        )
+
+                            Proceedings of the ACM on Programming Languages,
+                                        Myths and mythconceptions: What does it mean to be a programming language, anyhow?
+
+
+              Proceedings of the ACM on Programming Languages
+        ,
+                                Vol: 
+              4
+        
+                                                    Issue: (
+              HOPL
+        )
+Mary Shaw
+            
+            (
+              2018
+        )
+
+                            IEEE SOFTWARE,
+                                        Bridging the Gap From Research to Practical Advice
+
+
+              IEEE Software
+        ,
+                                Vol: 
+              35
+        
+                                                    Issue: (
+              5
+        )
+                            
+                            ,
+
+                Page(s): 50-
+              57
+        .
+David Garlan
+          Mary Shaw
+            
+            (
+              2018
+        )
+
+                            IEEE SOFTWARE,
+                                        Half a Century of Software Engineering Education The CMU Exemplar
+
+
+              IEEE Software
+        ,
+                                Vol: 
+              35
+        
+                                                    Issue: (
+              5
+        )
+                            
+                            ,
+
+                Page(s): 25-
+              31
+        .
+Garlan D, Shaw M, and others
+            (
+              2017
+        )
+
+                            
+Software engineering for self-adaptive systems: research challenges in the provision of assurances
+ 
+
+              Lecture Notes in Artificial Intelligence
+        
+                                    Vol: 9640 LNCS
+                                            
+                            ,
+                Page(s):  3
+                                    -
+              30
+CSD Courses Taught
+15921 - Fall, 2023
+15441 - Fall, 2023
+15641 - Fall, 2023
+CSD Courses Taught
+15735 - Fall, 2023
+15435 - Fall, 2023
+15635 - Fall, 2023
+CSD Courses Taught
+15482 - Fall, 2023
+CSD Courses Taught
+15418 - Fall, 2023
+15618 - Fall, 2023
+CSD Courses Taught
+15451 - Fall, 2023
+15195 - Fall, 2023
+15651 - Fall, 2023
+15295 - Fall, 2023
+Akshitha Sriraman
+            
+            (
+              2023
+        )
+
+                            IEEE Computer Architecture Letters,
+                                        Towards Improved Power Management in Cloud GPUs
+
+
+              IEEE Computer Architecture Letters
+        ,
+Song S, Khan TA, Shahri SM, Sriraman A, Soundararajan NK, Subramoney S, Jimenez DA, Litz H, Kasikci B
+            (
+              2022
+        )
+
+                            
+Thermometer: Profile-Guided BTB Replacement for Data Center Applications
+ 
+
+              Proceedings / Annual International Symposium on Computer Architecture. International Symposium on Computer Architecture
+        
+                                            
+                            ,
+                Page(s):  742
+                                    -
+              756
+Khan TA, Zhang D, Sriraman A, Devietti J, Pokam G, Litz H, Kasikci B
+            (
+              2021
+        )
+
+                            
+Ripple: Profile-guided instruction cache replacement for data center applications
+ 
+
+              Proceedings / Annual International Symposium on Computer Architecture. International Symposium on Computer Architecture
+        
+                                    Vol: 2021-June
+                                            
+                            ,
+                Page(s):  734
+                                    -
+              747
+Khan TA, Brown N, Sriraman A, Soundararajan N, Kumar R, Devietti J, Subramoney S, Pokam G, Litz H, Kasikci B
+            (
+              2021
+        )
+
+                            
+Twig: Profile-guided BTB prefetching for data center applications
+ 
+
+              Micro -Annual Workshop then Annual International Symposium-
+        
+                                            
+                            ,
+                Page(s):  816
+                                    -
+              829
+Akshitha Sriraman
+            
+            (
+              2021
+        )
+
+                            IEEE Micro,
+                                        Understanding Acceleration Opportunities at Hyperscale
+
+
+              IEEE Micro
+        ,
+                                Vol: 
+              41
+        
+                                                    Issue: (
+              3
+        )
+                            
+                            ,
+
+                Page(s): 34-
+              41
+        .
+Peter Steenkiste
+            
+            (
+              2023
+        )
+
+                                        Applications in Wireless and Mobile Networks
+
+
+              Synthesis Lectures on Mobile and Pervasive Computing
+        ,
+                                            
+                            ,
+
+                Page(s): 105-
+              115
+        .
+Ahmed MI, Bansal A, Yuan K, Kumar S, Steenkiste P
+            (
+              2023
+        )
+
+                            
+Battery-free Wideband Spectrum Mapping using Commodity RFID Tags
+ 
+
+
+                            ,
+                Page(s):  1
+                                    -
+              16
+Peter Steenkiste
+            
+            (
+              2023
+        )
+
+                                        Introduction
+
+
+              Synthesis Lectures on Mobile and Pervasive Computing
+        ,
+                                            
+                            ,
+
+                Page(s): 1-
+              7
+        .
+Peter Steenkiste
+            
+            (
+              2023
+        )
+
+                                        Introduction to Wireless Networking and Its Impact on Applications
+
+
+              Synthesis Lectures on Mobile and Pervasive Computing
+        ,
+                                            
+                            ,
+
+                Page(s): 1-
+              124
+        .
+Peter Steenkiste
+            
+            (
+              2023
+        )
+
+                                        IP and TCP
+
+
+              Synthesis Lectures on Mobile and Pervasive Computing
+        ,
+                                            
+                            ,
+
+                Page(s): 89-
+              103
+        .
+CSD Courses Taught
+15592 - Fall, 2023
+15593 - Fall, 2023
+15090 - Fall, 2023
+15591 - Fall, 2023
+CSD Courses Taught
+15354 - Fall, 2023
+Courses not found
+CSD Courses Taught
+15112 - Fall, 2023
+CSD Courses Taught
+15294 - Fall, 2023
+15883 - Fall, 2023
+15394 - Fall, 2023
+CSD Courses Taught
+15750 - Fall, 2023
+CSD Courses Taught
+15112 - Fall, 2023
+CSD Courses Taught
+15859 - Fall, 2023
+Courses not found
+Woodruff DP, Yasuda T
+            (
+              2023
+        )
+
+                            
+New Subset Selection Algorithms for Low Rank Approximation: Offline and Online
+ 
+
+              Annual ACM Symposium on Theory of Computing
+        
+                                            
+                            ,
+                Page(s):  1802
+                                    -
+              1813
+David Woodruff
+            
+            (
+              2023
+        )
+
+                                        On Differential Privacy and Adaptive Data Analysis with Bounded Space
+
+,
+David Woodruff
+            
+            (
+              2023
+        )
+
+                            Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics),
+                                        On Differential Privacy and Adaptive Data Analysis with Bounded Space
+
+
+              Lecture Notes in Artificial Intelligence
+        ,
+                                Vol: 
+              14006 LNCS
+        
+                                            
+                            ,
+
+                Page(s): 35-
+              65
+        .
+Swartworth W, Woodruff DP
+            (
+              2023
+        )
+
+                            
+Optimal Eigenvalue Approximation via Sketching
+ 
+
+              Annual ACM Symposium on Theory of Computing
+        
+                                            
+                            ,
+                Page(s):  145
+                                    -
+              155
+David Woodruff
+            
+            (
+              2023
+        )
+
+                                        Optimal Sketching Bounds for Sparse Linear Regression
+
+,
+CSD Courses Taught
+15890 - Fall, 2023
+15121 - Fall, 2023
+Courses not found
+CSD Courses Taught
+15440 - Fall, 2023
+15640 - Fall, 2023

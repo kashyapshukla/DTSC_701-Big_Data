@@ -1,0 +1,480 @@
+My main areas of interest are programming languages, parallel computing, and algorithms. In my research, I aim to raise the level of abstraction at which computer scientists reason about problems, and develop algorithms and software. To this end, I develop abstractions and design the supporting language constructs, algorithms, and software systems.
+Bio not found
+My research goal is to improve the quality and security of software and the productivity of engineers by providing novel ways to express and enforce structural and behavioral aspects of software design within source code, typically through language design and type systems. I both prove formal properties of the systems I develop, and also evaluate their practical benefits via case studies, human subjects experiments, and corpus studies with open source codebases.
+I am a faculty member in Electrical & Computer Engineering, affiliated with the Computer Science Department, and a core member of the Parallel Data Lab. My students' research has been added to the Linux kernel, helped scientists run scientific simulations in one of the largest supercomputers in the world, has been featured in the Morning Paper, HackerNews, Wired, etc. Accolades we received include two R&D100 awards, a MLSys outstanding paper award, a IEEE/ACM Supercomputing best paper finalist award, and a ACM SIGMETRICS best paper award. I love hiking, biking, baking, analyzing all types of data, playing video games, and being a general handyperson.
+David Andersen is a professor in the Computer Science department at Carnegie Mellon University. He received his Ph.D. and M.S. degrees from MIT, and and received B.S. degrees in Computer Science and Biology from the University of Utah. He is founder and CTO of BrdgAI.
+Bio not found
+My research tackles fundamental questions in Machine Learning, Algorithmic Game Theory, and Algorithms. My work develops deep new connections between these areas, using ideas and insights from each of them to solve some of their central and emerging challenges in innovative ways.
+Bio not found
+I am interested improving the performance and energy efficiency of future processors. One major challenge faced by processors today is the rising cost of moving data onto and within the chip. My research has developed hardware and software techniques that tackle this important problem.
+Bio not found
+My main research interest is in the interaction between algorithms and languages, mostly in the context of parallel computing, and has consisted of both theoretical and experimental work. As programming languages become higher level, implementations become more complex, and parallelism becomes pervasive, users are naturally becoming more removed from the hardware and its costs. Rather than trying to bring programmers down to the level of the machine to understand and get good performance, however, I believe that we should be trying to bring languages and cost models up to the level of the programmer. My research therefore centers around questions of how to model costs (e.g. time and space) for very-high level programming constructs (e.g. dynamic parallelism, futures, garbage collection), of how to design systems so these costs have meaning, and of how to make use of these features in effective algorithms design.
+My current research projects include:
+Bio not found
+Stephen Brookes is well known internationally for his seminal contributions to semantics for concurrent programs and logics for reasoning about program behaviour. He earned both his bachelor’s degree in Mathematics and his Ph. D. in Computer Science at Oxford University, joined Carnegie Mellon University as a research computer scientist in 1981, and has been a full professor there since 2006. His doctoral dissertation, supervised by Tony Hoare, was titled "A Model for Communicating Sequential Processes".
+My primary research area is software security techniques that give users guarantees. My research is at the intersection of model checking, formal methods, compilers, and logic, all of which are applied to security problems.  Some of the central techniques that we are developing in order to accomplish our goals include efficient symbolic execution, reasoning about bit-level arithmetic in finite fields, sound decompilation, and decision procedures.  I also work in other areas of computer security, such as network security and applied cryptography. In these areas, we look at efficient protocols, efficient signature schemes, and privacy-preserving cryptography.
+Bio not found
+Bio not found
+Iliano Cervesato is a teaching professor of computer science at Carnegie Mellon University, where he teaches and conducts research on the principles of programming languages and security. He has held appointments at both the Pittsburgh and Qatar campuses of Carnegie Mellon University, Stanford University, Princeton University and Tulane University. He also has worked for ITT Industries at the Naval Research Laboratory. He was the founder and chief research scientist of Deductive Solutions in Annandale, Virginia. Cervesato's current research interests encompass computer security, computational logic, programming languages and user productivity applications. Cervesato holds a BS in computer science from University of Udine in Italy; an MS in computer science from University of Houston in Houston, Texas; and a Ph.D. in computer science from University of Torino in Italy for work done at CMU Pittsburgh. Dr. Cervesato has been teaching for about 20 years and has over 25 years of experience in computational logic and in various aspects of the design, analysis and implementation of programming languages. He also has over a decade of research and development experience in computer security, notably cryptographic protocol analysis and foundations of computer security. His expertise and contributions are internationally recognized. He has published over 100 articles on the above topics. He has been the program chair or general chair of thirteen international scientific conferences.
+I am interested in the intersection of machine learning and systems. The real excitement of this area comes from what can enable when we bring advanced learning techniques and system together. On that end, I am also pushing the direction on deep learning, knowledge transfer and lifelong learning.
+Bio not found
+Bio not found
+My research draws on insights from differential geometry and computer science to develop fundamental algorithms for working with real-world geometric data. I received my bachelor's degree from the University of Illinois at Urbana-Champaign and my PhD from the California Institute of Technology. My most recent work was supported by an NSF Mathematical Sciences Postdoctoral Fellowship at Columbia University.
+My research interests are in the design and implementation of advanced programming languages and in applying programming language technology to improve the development, maintenance, and performance of software systems. I am particularly interested in the application of types to the structure and implementation of programming languages and software systems.
+Bio not found
+Bio not found
+Bio not found
+Dave Eckhardt
+          Peter Steenkiste
+            
+            (
+              2002
+        )
+
+                            WIRELESS COMMUNICATIONS & MOBILE COMPUTING,
+                                        An Internet-style approach to wireless link errors
+
+
+              Wireless Communications and Mobile Computing
+        ,
+                                Vol: 
+              2
+        
+                                                    Issue: (
+              1
+        )
+                            
+                            ,
+
+                Page(s): 21-
+              35
+        .
+I am interested in making robots act purposefully and successfully in a world in which most everything is uncertain.  Sensors are noisy, actions are imprecise, and models are faulty. I wish to understand how these uncertainties interact and how to overcome them. My research draws on tools from geometry, mechanics, planning, probability, and topology. Most recently I have explored topological methods for planning and control. Topology allows a system to abstract connectivity properties, filtering out the imprecision caused by uncertainty. For instance, one recent novel topological result is a graph controllability theorem:
+There are two main focus areas: graph mining and stream mining. In the first, the goal is to find patterns in large graphs, so that we can spot anomalies, communities, patterns and regularities. Graphs appear in many instances: as document-term bipartitegraphs in Information retrieval, as web pages or blogs linking to each other, as customer-product recommendations, as protein-protein regulatory networks, as computer-network traffic, and many more. Our emphasis is on scalability, so that we can handle graphs withthousands and millions of nodes. Research directions include time-evolving graphs, where we have beenusing 'tensors' to find patterns, as well as graphs where the nodes and/or the edges have attributes.
+Giulia Fanti
+            
+            (
+              2023
+        )
+
+                            Proceedings of the ACM on Measurement and Analysis of Computing Systems,
+                                        Batching of Tasks by Users of Pseudonymous Forums: Anonymity Compromise and Protection
+
+
+              Proceedings of the ACM on Measurement and Analysis of Computing Systems
+        ,
+                                Vol: 
+              7
+        
+                                                    Issue: (
+              1
+        )
+My work seeks to design high-performance systems for computer graphics and visual computing. Due to the compute-intensive nature of computer graphics applications, graphics systems must operate at exceptional levels of efficiency. To enable the development of new, complex applications, these high-performance systems must also be practical to program and use. To meet both these challenges, my students design new parallel graphics architectures (GPUs), develop parallel algorithms for rendering and simulation, and develop new programming models and compiler technologies that make it easier to express and optimize graphics computations.
+
+Alan Frieze
+            
+            (
+              2023
+        )
+
+                            SIAM JOURNAL ON DISCRETE MATHEMATICS,
+                                        COLORFUL HAMILTON CYCLES IN RANDOM GRAPHS
+
+
+              SIAM Journal on Discrete Mathematics
+        ,
+                                Vol: 
+              37
+        
+                                                    Issue: (
+              1
+        )
+                            
+                            ,
+
+                Page(s): 51-
+              64
+        .
+I have broad research interests in computer systems, including cloud computing, storage/file systems, operating systems and distributed systems. I am involved in several ongoing projects in such areas as systems for large-scale ML, cloud/cluster resource scheduling, and exploitation of new storage/NVM technologies.
+My field of interest is software engineering, and specifically the areas of software architecture, self-adaptive systems, and cyber-physical systems. The common thread that links these areas is the problem of controlling the complexity of large software systems by providing a scientific basis for software design and analysis.
+Todd Mowry
+          Phillip Gibbons
+            
+            (
+              2023
+        )
+
+                                        ACRoBat: Optimizing Auto-batching of Dynamic Deep Learning at Compile  Time
+
+,
+In broad terms I pursue research in large scale parallelism in computer systems and its implications on operating systems and computer architecture. My particular interests focus on large scale clustering technologies, parallel and distributed file systems, storage and system area networking, and secondary memory system technologies such as magnetic disk and flash storage design and optimization. I have a strong interest in shepherding technological advances from blackboard to commercial reality and widespread use. All of my research is housed in CMU's Parallel Data Laboratory (www.pdl.cmu.edu).
+Bio not found
+Yu M, Gligor V, Jia L
+            (
+              2021
+        )
+
+                            
+An I/O separation model for formal verification of kernel implementations
+ 
+
+              Proceedings / IEEE Symposium on Security and Privacy; sponsored by IEEE Computer Society, IEEE Computer Society Technical Committee on Security and Privacy in cooperation with the International Association for Cryptologic Research (IARC...
+        
+                                    Vol: 2021-May
+                                            
+                            ,
+                Page(s):  572
+                                    -
+              589
+My broad research interests center on ensembles, systems that contain massive numbers of interacting components. My goal is to understand, design, and build robust and useful systems that can scale towards millions, billions, or even Moles of components. While my main emphasis is on manufactured artifacts, I am also interested in the economy, i.e., a massively distributed system of people. In the area of reconfigurable computing (in the context of the PipeRench and Phoenix projects) we investigated how to compile high-level programming languages directly into configurations that could harness the large ensemble of gates for computing. He then began investigating how ensembles of molecules could be used to create circuits; investigating how to design, manufacture, and use molecular-scale devices for computing. This led to the Claytronics project, research into programmable matter; an ensemble of computing elements that can be programmed to work together to produce changes in the physical properties of the ensemble.
+Cryptography: http://crypto.cs.cmu.edu
+My main research interests are in Network Design and Metric Embeddings; I also work on Approximation and Graph algorithms.
+Venkatesan Guruswami
+          Pravesh Kothari
+            
+            (
+              2022
+        )
+
+                            PROCEEDINGS OF THE 54TH ANNUAL ACM SIGACT SYMPOSIUM ON THEORY OF COMPUTING (STOC '22),
+                                        Algorithms and Certificates for Boolean CSP Refutation: Smoothed Is No Harder Than Random
+
+
+              Annual ACM Symposium on Theory of Computing
+        ,
+                                            
+                            ,
+
+                Page(s): 678-
+              689
+        .
+Anagnostides I, Lenzen C, Haeupler B, Zuzic G, Gouleakis T
+            (
+              2022
+        )
+
+                            
+Brief Announcement: Almost Universally Optimal Distributed Laplacian Solver
+ 
+
+              Proceedings of the Annual ACM Symposium on Principles of Distributed Computing
+        
+                                            
+                            ,
+                Page(s):  372
+                                    -
+              374
+Looking for mathematically strong student who likes to prove theorems and enjoys learning new math techniques.
+The goal of my research is to develop a comprehensive theory of programming that integrates with the practice of software development.  The premise of my research is that programming is an explanatory activity, a form of expression intended to convey an idea that is both comprehensible by other people and executable by a computer.  Language therefore plays a central role in programming.  The overall goal of my work is to develop a language for computation that serves both purposes.
+My research focuses on solving hard problems automatically with having high confidence in the results. 
+While humans are great at many aspects of problem  solving, we are no match for computers in a range of ways,  
+including precise logical reasoning. Such reasoning is crucial in industry and academia, for 
+instance to ensure that computer systems work exactly as intended, in fields ranging from health care to finance to aviation. 
+The main themes of my research are described below.
+Dr. Hodgins's research focuses on the coordination and control of dynamic physical systems, both natural and human-made and explores techniques that may someday allow robots and animated creatures to plan and control their actions in complex and unpredictable environments. Her current research focuses on generating motion for computer animation by using motion capture data in combination with physically realistic simulation. Hodgins and her students have used dynamic simulation to animate human behaviors such as running, bicycling, diving, and vaulting. She and her colleagues have also used human motion data to bias planning algorithms towards more natural postures, to construct interfaces for avatars, and to capture the motion of muscles and skin. Hodgins is now refining some of these techniques for the control of a humanoid robot. Hodgins and her students have also explored passive simulations for animating phenomena such as clothing, water, breaking objects, and explosions.
+My research mission is to discover beautiful mathematical ideas that have a real-world impact, shape the way programmers think, and help to create software that is more reliable, efficient, and secure.
+Farnam Jahanian
+            
+            (
+              2020
+        )
+
+                            SCIENCE,
+                                        Support US research during COVID-19
+
+
+              Science
+        ,
+                                Vol: 
+              370
+        
+                                                    Issue: (
+              6516
+        )
+                            
+                            ,
+
+                Page(s): 539-
+              540
+        .
+I was a Postdoctoral Fellow at NTT Research. Prior to that I was a PhD student at UCLA where I was advised by Prof. Amit Sahai.
+Brandon Lucia
+          Limin Jia
+            
+            (
+              2023
+        )
+
+                            PROCEEDINGS OF THE ACM ON PROGRAMMING LANGUAGES-PACMPL,
+                                        A Type System for Safe Intermittent Computing
+
+
+              Proceedings of the ACM on Programming Languages
+        ,
+                                Vol: 
+              7
+        
+                                                    Issue: (
+              PLDI
+        )
+I am an assistant professor in the Computer Science Department at Carnegie Mellon University, where I work on computer systems and machine learning as part of CMU Catalyst Group and Parallel Data Lab. Before joining CMU, I was a research scientist at Facebook. I received my PhD from the Computer Science Department at Stanford University in 2020, where I was co-advised by Alex Aiken and Matei Zaharia. Before coming to Stanford, I received my bachelor degree in Computer Science from the Special Pilot CS Class supervised by Andrew Yaoat Tsinghua University.
+Bio not found
+My research interests are in the areas of computer vision, visual and multi-media technology, and robotics. Common themes that my students and I emphasize in performing research are the formulation of sound theories which use the physical, geometrical, and semantic properties involved in perceptual and control processes in order to create intelligent machines, and the demonstration of the working systems based on these theories. My current projects include basic research and system development in computer vision (motion, stereo and object recognition), recognition of facial expressions, virtual(ized) reality, content-based video and image retrieval, VLSI-based computational sensors, medical robotics, and an autonomous helicopter.
+Dilsun Kaynar is an Associate Teaching Professor at the Department of Computer Science, Carnegie Mellon University (CMU). Before joining the Computer Science Department she worked as a researcher at CMU CyLAb and at MIT Computer Science and Artificial Intelligence Laboratory in the Theory of Distributed Systems Group (2001-2006). She received her Ph.D. degree in 2002 from the University of Edinburgh in the UK and B.Sc. degree in 1996 from the Middle East Technical University in Turkey.
+Bio not found
+Leqi L, Zhou G, Kilinc-Karzan F, Lipton Z, Montgomery A
+            (
+              2023
+        )
+
+                            
+A Field Test of Bandit Algorithms for Recommendations: Understanding the Validity of Assumptions on Human Preferences in Multi-armed Bandits
+ 
+
+              Cost Engineering (Morgantown)
+Bio not found
+My research focuses on computational approaches to sustainability and energy domains, focusing on core challenges arising in machine learning, optimization, and control in these areas. On the application side, my interests range from improving the efficiency of generation, controlling power in smart grids, and analyzing energy consumption in homes and buildings. To attack these problems I focus on techniques from machine learning, reinforcement learning, time series prediction, approximate inference, and convex optimization, amongst others. Some examples of specific projects I am working on include:
+David Kosbie
+            
+            (
+              2005
+        )
+
+                            SOFTWARE-PRACTICE & EXPERIENCE,
+                                        Lessons learned from programmers' experiences with one-way constraints
+
+
+              Software: Practice and Experience
+        ,
+                                Vol: 
+              35
+        
+                                                    Issue: (
+              13
+        )
+                            
+                            ,
+
+                Page(s): 1275-
+              1298
+        .
+My current research aims at designing efficient algorithms and obtaining rigorous evidence of algorithmic thresholds for average-case computational problems arising in theoretical computer science and its intersections with allied areas such as statistics. Part of this research program is currently supported by an NSF CAREER Award (2021-2026) on The Nature of Average-Case Computation and a Sloan Fellowship (2022).
+Bio not found
+
+Bio not found
+Research in my laboratory seeks to elucidate the computational principles and neural mechanisms underlying visual perception. We use computational, mathematical and neurophysiological experimental techniques to study the biological visual system with a view to discovering the secrets of neural computation, advancing computer vision technology and restoring vision to the visually impaired.
+Willis KDD, Xu C, Wu K-J, Levin G, Gross MD
+            (
+              2011
+        )
+
+                            
+Interactive Fabrication: New Interfaces for Digital Fabrication
+ 
+
+
+                            ,
+                Page(s):  69
+                                    -
+              72
+Bio not found
+Minchen is an assistant professor at CMU CSD and formerly an assistant adjunct professor at UCLA's Department of Mathematics. He completed his Ph.D. at the SIG Center for Computer Graphics at the University of Pennsylvania, where he remained a postdoctoral researcher. His Ph.D. dissertation featured the Incremental Potential Contact (IPC) method, a breakthrough in frictional contact simulation in nonlinear solid dynamics. Minchen's research has won multiple awards, including the 2021 ACM SIGGRAPH Outstanding Doctoral Dissertation Award. He has completed four internships at Adobe Research and earned an M.Sc. in Computer Science from the University of British Columbia. His research focuses on advancing physical simulation in visual computing, manufacturing, and robotics, aiming for robustness, efficiency, accuracy, and versatility through methods that combine numerical analysis, high-performance computing, and machine learning.
+I am an assistant professor in the department of Electrical and Computer Engineering at Carnegie Mellon University. I do research on the boundary between computer architecture, computer systems, and programming languages to make computer systems more capable, more reliable, and more efficient. I lead the abstract research group (http://abstract.ece.cmu.edu).
+I like to hunt for elusive mathematical objects having special properties. For example, assuming that every pair of people are either acquaintances or strangers, it is not known whether it is possible to have a party of 43 people at which no five people are mutual acquaintances and no five people are mutual strangers. It may be fun for you to construct the largest conceivable party at which no three people are mutual acquaintances and no three people are mutual strangers.
+Ruben received his Ph.D. with honors from the Technical University of Lisbon, Portugal (2013). He was a postdoctoral researcher at the University of Oxford, UK (2014-2015), and a postdoctoral researcher at UT Austin (2015-2017). He has published in top-tier venues, including, POPL, PLDI, FSE, SAT, CP, and has won a distinguished paper award at PLDI 2018 for his work on program synthesis. He has also developed several award-winning constraint solvers and is the main developer of Open-WBO: an open-source Maximum Satisfiability (MaxSAT) solver that won several gold medals in MaxSAT competitions. Open-WBO is used to solve many real-world discrete optimizations problems including finding an optimal seating arrangement for his own wedding.
+Bio not found
+My main interest is in sequential and parallel algorithm design. Of particular interest are problems that arise in scientific computation and image processing. We have been working on three classes of problems. Our work is both more theoretical yet more practical since we require two important properties of our algorithms: they should be both be fast and have strong guarantees of quality, size, and speed.
+Bio not found
+I am interested in many areas of computer science, but especially in how to construct computers that learn from experience.  At the heart of the problem of machine learning is the question of how to automatically formulate general hypotheses given a collection of very specific training examples. My research has addressed a number of approaches to this question, including statistical approaches that find regularities over large numbers of training examples, and analytical approaches that generalize from very few examples and rely instead on prior knowledge and reasoning.
+Stefan Mitsch
+            
+            (
+              2023
+        )
+
+                                        Dynamic Logic of Communicating Hybrid Programs
+
+,
+The goal of my research is to dramatically boost the performance of future microprocessor-based systems. To accomplish this, we exploit various forms of parallelism through a combination of novel architectural, compiler and operating systems support. In particular, we have been focusing on the opportunities and challenges created by two important VLSI technology trends which are expected to reshape computer systems over the next decade: the potential for single-chip multiprocessing due to higher levels of single-chip integration, and the need to tolerate off-chip latency as the gap between processor speed and the speed of memory and I/O continues to widen.
+Bio not found
+
+I work in the area of computer systems. My interests within computer systems are quite broad, including online education, cloud computing, and scientific computing. My main interest these days is the phenomena surrounding autograding, that is, programs evaluating other programs.
+I am an Assistant Professor with the Robotics Institute and Computer Science Department in the School of Computer Science at Carnegie Mellon University. My research interests span many topics across computer graphics and computer vision, but I’m particularly interested in computational imaging: a field that combines optics, electronics, and computational processing to capture or display new forms of visual information.
+Bio not found
+My research is primarily focused on investigating long-term, fundamental improvements in how to design and build secure systems.  As a result, my work combines theory and practice to provide formal, rigorous security guarantees about concrete systems, with an emphasis on creating solid foundations for practical solutions.  In the past, I have worked on topics such as network and system security, applied cryptography, usable security, and data privacy.
+Bio not found
+Andy Pavlo is an Associate Professor of Databaseology in the Computer Science Department at Carnegie Mellon University. His (unnatural) infatuation with database systems has inadvertently caused him to incur several distinctions, such as the NSF CAREER (2019), a Sloan Fellowship (2018), and the ACM SIGMOD Jim Gray Dissertation Award (2014). He is also the CEO & co-founder of the OtterTune database tuning start-up (2020).
+Bio not found
+At the heart of my research lies the desire to understand the principles of programming languages. Programming languages are the key to the programming process and therefore of fundamental importance to computer science. Well-designed programming languages allow fast program development, ease software maintenance, and increase confidence in the correctness of implementations. Poorly designed programming languages lead to verbose and impenetrable programs that are difficult to debug and maintain. One of the trends in computer science has been the development of a plethora of languages, often for very specific purposes. Unfortunately, many of these languages are woefully misdesigned, because their developers were unaware of or have disregarded basic principles of programming language design. My research thus aims at discovering such principles and experimenting with them through implementations and environments.
+Bio not found
+I am interested in understanding physical interaction with the environment --- how do we select and apply exactly the right forces to maneuver bulky and heavy objects, scramble over large rocks using both hands and feet, or use hand held tools?
+Ariel Procaccia
+            
+            (
+              2021
+        )
+
+                            Journal of Artificial Intelligence Research,
+                                        Liquid democracy: An algorithmic perspective
+
+
+              Journal of Artificial Intelligence Research
+        ,
+                                Vol: 
+              70
+        
+                                            
+                            ,
+
+                Page(s): 1223-
+              1252
+        .
+Bio not found
+Railing BP
+            (
+              2022
+        )
+
+                            
+Exam Time: How Students Spend Their Time When Taking Exams
+ 
+
+
+                            ,
+                Page(s):  1138
+R. Ravi
+            
+            (
+              2023
+        )
+
+                            MATHEMATICAL PROGRAMMING,
+                                        A new integer programming formulation of the graphical traveling salesman problem
+
+
+              Mathematical Programming
+        ,
+                                Vol: 
+              197
+        
+                                                    Issue: (
+              2
+        )
+                            
+                            ,
+
+                Page(s): 877-
+              902
+        .
+Dr. Reddy's research interests include the study of human-computer interaction and artificial intelligence. His current research projects include spoken language systems; gigabit networks; universal digital libraries; and distance learning on demand.
+Kelly Rivers is a CMU lifer; she completed both her undergraduate degree (Mathematics and Computer Science) and her graduate degree (Human-Computer Interaction) at CMU. Now she works in CSD as an Associate Teaching Professor. Kelly primarily teaches introductory programming courses, including 15-110: Principles of Computing and 15-112: Fundamentals of Programming and Computer Science. She frequently uses active learning and live coding in her teaching, and she is especially interested in helping a wide range of students learn how they can apply computational concepts to their own interests and fields of work.
+Mash M, Oryol S, Simmons R, Rosenthal S
+            (
+              2022
+        )
+
+                            
+Predicting Data Scientist Stuckness During the Development of Machine Learning Classifiers
+ 
+
+              Proceedings of IEEE Symposium on Visual Languages and Human-Centric Computing, VL/HCC
+        
+                                    Vol: 2022-September
+The main focus of my research is in complexity theory and the foundations of cryptography. The wide applicability of the technical ideas in these two areas has allowed me to extend my work into learning theory, probability theory, and combinatorics.
+Bio not found
+Majd Sakr
+            
+            (
+              2023
+        )
+
+                                        Can Generative Pre-trained Transformers (GPT) Pass Assessments in Higher  Education Programming Courses?
+
+,
+Bio not found
+My main research interests are in artificial intelligence, electronic commerce, game theory, multiagent systems, automated negotiation, contracting, auctions, exchanges, coalition formation, voting, algorithmic mechanism design, and normative models of bounded rationality. A key goal of this research is to construct electronic marketplaces that are efficient both in terms of the resulting economic allocations and the computational processes. We approach this by developing incentive-compatible market mechanisms and the algorithms that execute those mechanisms efficiently, as well as by designing software agents that act optimally on behalf of the real-world parties that they represent in such markets. A central subject of this research is the deep interaction between the game-theoretic incentive issues and the computational issues that stem from computational limits on the mechanism and the agents. Our research involves theoretical work such as models of limited computation, mechanism design, equilibrium analysis, and algorithm design as well as computational experiments and system building. Many of our systems have been commercially fielded.
+Satya's multi-decade research career has focused on the challenges of performance, scalability, availability and trust in information systems that reach from the cloud to the mobile edge of the Internet.  In the course of this work, he has pioneered many advances in distributed systems, mobile computing, pervasive computing, and the Internet of Things (IoT). Most recently, his seminal 2009 publication “The Case for VM-based Cloudlets in Mobile Computing” and the ensuing research has  led to the emergence of Edge Computing (also known as "Fog Computing").  Satya is the Carnegie Group Professor of Computer Science at Carnegie Mellon University.  He received the PhD in Computer Science from Carnegie Mellon, after Bachelor's and Master's degrees from the Indian Institute of Technology, Madras. He is a Fellow of the ACM and the IEEE.
+Bio not found
+My research is broadly in the area of computational biology, with particular emphasis on models and algorithms for studying complex systems in biology. My group is currently pursuing two major areas:
+A.M. Turing Award
+       |
+            
+            1976
+       |
+            
+            Faculty Research Award
+      
+
+  
+            (jointly with Michael Rabin) (Emeritus)
+For their joint paper "Finite Automata and Their Decision Problem", which introduced the idea of nondeterministic machines, which has proved to be an enormously valuable concept. Their classic paper has been a continuous source of inspiration for subsequent work in this field.
+Today, we see an explosion of Internet-enabled devices, applications, and services. In conjunction, we also observe increasing performance (e.g., network latency, application-perceived quality of experience) and security expectations from users and applications. These requirements have historically outpaced innovation in networking and network security. This creates significant stresses on the network infrastructure, and leads to suboptimal and insecure end-to-end systems. The overarching vision of my research is to provide practical-yet-rigorous solutions that enable network infrastructures to keep up with (and exceed) the evolving performance and security requirements of the applications they enable.
+My primary interests are in the broad areas of network protocols and distributed network applications. In the past, I have worked on topics such as transport/routing protocol interactions with wireless networks, sensor networking, fast protocol stack implementations, RAID system design, performance prediction for Internet transfers, firewall design, and improvements to the TCP protocol. The following two projects are examples of my current research efforts.
+Nihar's research broadly lies in the areas of statistical learning, game theory, and information theory, with a focus on problems in crowdsourcing and learning from people.
+Software now accounts for the lion's share of the cost of developing and using computer systems. My long-term goal is to establish a genuine engineering discipline to support the design and development of software systems, in particular systems used by real people. Currently I'm working on design methods and analytic techniques for building complete software systems out of subsystems and their constituent modules. This is the software architecture level of design.
+Justine's interests are in software and hardware networked systems; her work includes middleboxes, FPGA packet processing, measurement, cloud computing, and congestion control. Dr. Sherry received her PhD (2016) and MS (2012) from UC Berkeley, and her BS and BA (2010) from the University of Washington. Her research has been awarded the VMware Systems Research Award, the Applied Networking Research Prize, a Google Faculty Research Award, the SIGCOMM doctoral dissertation award, the David J. Sakrison prize, and paper awards at USENIX NSDI and ACM SIGCOMM. She is a member of the DARPA ISAT Study Group and the SIGCOMM CARES Committee. Most importantly, she is always on the lookout for a great cappuccino.
+I design and build systems that are efficient, provably secure, and friendly to users and programmers. To this end, I take an interdisciplinary approach that blends cryptography, systems security, and language-based security.
+My research focuses on the area reliable autonomous systems (especially mobile robots) operating in rich, uncertain environments. The goal is to create intelligent systems that can operate autonomously for long periods of time in unstructured, natural environments. This necessitates robots that can plan, reason about uncertainty, diagnose and recover from unanticipated errors, interact with other robots and humans, and learn. I am interested in the use of probabilistic reasoning to explicitly model and plan for uncertainty.  I am currently focusing on multi-robot coordination and human-robot social interaction. Multi-Robot Coordination. We are researching issues of how multiple, heterogeneous robots can coordinate to carry out high-level tasks, especially those that cannot be accomplished by a single robot. Issues include having the robots negotiate to dynamically form teams and assign tasks, monitoring each other's performance, and adapting dynamically to changing situations. The work extends traditional three-tiered architectures to multiple robots and extends planning and scheduling algorithms to handle uncertainty and failing plans. Application domains include dexterous, multi-robot large-scale assembly. Human-Robot Social Interaction. The goal here is to make robots more useful and acceptable by enabling them to interact with humans using social rules and conventions. This includes both conversational and spatial social interaction.  In the area of conversational interaction, we have developed the roboceptionist, in conjunction with the School of Drama, to have a robot with character and personality interact over long periods of time.  In the area of spatial interaction, we are looking at socially appropriate navigation and rhythmic interaction.  We are also interested in culturally appropriate interaction. Probabilistic Reasoning in Robotics. We are exploring the use of probabilistic reasoning techniques in controlling autonomous robots. We are investigating methods for making mobile robots more robust and self-reliant, especially using Markov models and partially observable Markov models.
+I earned a PhD in Computer Science at the University of Illinois at Urbana-Champaign in 2020 where I was fortunate to work with Prof. Josep Torrellas in the i-acoma group. My PhD thesis, Rethinking Computer Architecture and Operating Systems Abstractions for Good & Evil, received the David J. Kuck Outstanding Ph.D. Thesis Award, and the ACM SIGARCH & IEEE CS TCCA Outstanding Dissertation Award, for "contributions to redesigning the abstractions and interfaces that connect hardware and operating systems". My alma mater is the Technical University of Crete in Greece, where I studied Electronic and Computer Engineering. During my years in Crete I had the chance to work with Prof. Dionisios Pnevmatikatos, Prof. Apostolos Dollas, Prof. Ioannis Papaefstathiou and Prof. Polyvios Pratikakis.
+I have worked in a variety of different areas of computer science, including amortized analysis of algorithms, self-adjusting data structures, competitive algorithms, natural language parsing, computer game playing, synthesis of musical sounds, and persistent data structures.
+Akshitha Sriraman
+            
+            (
+              2023
+        )
+
+                            IEEE Computer Architecture Letters,
+                                        Towards Improved Power Management in Cloud GPUs
+
+
+              IEEE Computer Architecture Letters
+        ,
+Peter received the degree of Electrical Engineer from the University of Gent in Belgium in 1982, and the MS and PhD degrees in Electrical Engineering from Stanford University in 1983 and 1987, respectively. His current research is in the areas of future Internet architecture and wireless networking.
+Stehlik M, Cawley E, Kosbie D
+            (
+              2020
+        )
+
+                            
+CMU CS Academy: A Browser-based, Text-based Introduction to Programming through Graphics and Animations in Python
+ 
+
+
+                            ,
+                Page(s):  1420
+                                    -
+              1420
+Becker T, Sutner K
+            (
+              2019
+        )
+
+                            
+Orbits of Abelian Automaton Groups
+ 
+
+              Lecture Notes in Artificial Intelligence
+        
+                                    Vol: 11417 LNCS
+                                            
+                            ,
+                Page(s):  70
+                                    -
+              81
+Bio not found
+Schapiro J, Taylor MD, Nourbakhsh I
+            (
+              2018
+        )
+
+                            
+Humanitarian Efforts for Improving Air Quality using Solar Power
+My current research focuses on robotics and computing education. I have previously done work in computational neuroscience, connectionist modeling, and knowledge representation.
+Rashmi received her Ph.D. from UC Berkeley in 2016 where she worked on resource-efficient fault tolerance for big-data systems, and was a postdoctoral scholar at UC Berkeley's AMPLab/RISELab from 2016-17.
+Pat Virtue is an Assistant Teaching Professor in the Computer Science and Machine Learning departments at Carnegie Mellon University. He focuses on teaching techniques for artificial intelligence, machine learning, and computer science. His interests include active learning teaching methods, effective instruction for large classes, building inclusive learning environments, and AI/ML curriculum development. Pat completed his Ph.D. at UC Berkeley in Electrical Engineering and Computer Sciences, and his undergraduate at the University of Notre Dame. Prior to graduate school, he researched and developed volumetric medical image applications as a software engineer at GE Healthcare.
+I joined the Computer Science Department at Carnegie Mellon University in Fall 2018 as an Assistant Professor. Previously, I was a postdoc at the University of Illinois at Urbana-Champaign and Arizona State University, working with Prof. R. Srikant and Prof. Lei Ying. I received my Ph.D. degree in electrical engineering from Arizona State University in 2016, advised by Prof. Lei Yingand Prof. Junshan Zhang. I received my Bachelor’s degree from the Department of Electronic Engineering at Tsinghua University in 2009. My dissertation received the Dean’s Dissertation Award in the Ira A. Fulton Schools of Engineering at Arizona State University in 2016 (news article). I received the Kenneth C. Sevcik Outstanding Student Paper Award at ACM SIGMETRICS 2016 and the Best Paper Award at ACM MobiHoc 2022. I received an NSF CAREER Award in 2022.
+A long-term goal that drives my research is to provide, where appropriate, as rigorous as possible a foundation to the design and implementation of software. My specific interest is the application of formal specification and analysis techniques to reason about complex software systems.
+My current research interests are communication complexity, data stream algorithms and lower bounds, graph algorithms, machine learning, numerical linear algebra, sketching, and sparse recovery.
+Bio not found
+Bio not found
+Previously, I was a Ph.D. student in the UC Berkeley RISE Lab, where I was co-advised by Raluca Ada Popa and Ion Stoica. I received my bachelor and M.Eng. degrees at MIT. I have been very fortunate to work with a number of wonderful people. During my M.Eng., I was advised by Barbara Liskov and worked with Eddie Kohler and Sam Madden.
